@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HyeonSeok%20Jeong&fontSize=90" />
+</div>
+
 <h1 align="center">Hello I'm HyeonSeok 👋 <br/><br/>
 I'm Front-End development 🧔🏻‍♂️💻 </h1><br/>
 <div align="center">
