@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello I'm HyeonSeok 👋 <br/><br/>
-I'm Front-End developer 🧔🏻‍♂️💻 </h1><br/>
+I'm developer 🧔🏻‍♂️💻 </h1><br/>
 <div align="center">
 <a href="https://velog.io/@wjd5464"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@wjd5464"/>&nbsp</a> 
 <a href="https://github.com/Sn-bow?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Sn-bow?tab=repositories"/>&nbsp</a>
